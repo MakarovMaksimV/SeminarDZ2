@@ -1,0 +1,15 @@
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/bin/Debug/net7.0/Task15
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/bin/Debug/net7.0/Task15.deps.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/bin/Debug/net7.0/Task15.runtimeconfig.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/bin/Debug/net7.0/Task15.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/bin/Debug/net7.0/Task15.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.csproj.AssemblyReference.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.AssemblyInfoInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.AssemblyInfo.cs
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.csproj.CoreCompileInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/refint/Task15.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/Task15.genruntimeconfig.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ2/Task15/obj/Debug/net7.0/ref/Task15.dll
